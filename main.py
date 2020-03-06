@@ -12,6 +12,7 @@ el main contiene los elementos necesarios para lanzar la aplicación
 así como la declaración de los widgets que se usarán. También los módulos
 que tenemos que importar de las librerías gráficas
 
+hola carola veamos si funciona
 '''
 
 class Empresa:
